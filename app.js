@@ -9,4 +9,4 @@ function subtractNums(a, b) {
   // I cant reach this line
 }
 
-console.log(subtractNums(8, 2));
+console.log(subtractNums(8, 3));
