@@ -1,5 +1,5 @@
-function addNumbers(a, b, c) {
-  return a + b + c;
+function addNumbers(a, b) {
+  return a + b;
 }
 
 console.log(addNums(2, 8));
