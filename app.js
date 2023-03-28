@@ -10,7 +10,6 @@ function subtractNums(a, b) {
 }
 
 console.log(subtractNums(8, 3));
-console.log('This line');
 console.log(subtractNums(8, 2));
 
 // some more addition to new-feature
