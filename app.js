@@ -7,6 +7,7 @@ console.log(addNums(2, 8));
 function subtractNums(a, b) {
   return a - b;
   // This line wont be reached
+  // I can't reach this line
 }
 
 console.log('This line');
